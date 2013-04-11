@@ -1,5 +1,3 @@
-Log-1
-=====
 04-10-2013 11:52 v3.3.12322.1200 Error - Could not find a part of the path 'd:\program files\steam\steamapps\common\terraria\Content\Images\NPC_17.xnb'.
    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
    at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath)
